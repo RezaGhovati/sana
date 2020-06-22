@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "sana",
-    "slug": "sana",
+    "slug": "sanagostar",
     "platforms": [
       "ios",
       "android",
@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/images/favicon.png"
-    }
+    },
+    "description": ""
   }
 }
