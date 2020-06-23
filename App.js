@@ -10,8 +10,6 @@ import reduceer from './redux/reducer'
 
 
 import useCachedResources from './hooks/useCachedResources';
-import BottomTabNavigator from './navigation/BottomTabNavigator';
-import LinkingConfiguration from './navigation/LinkingConfiguration';
 
 import HomeScreen from './screens/HomeScreen';
 import Map from './screens/Map';
